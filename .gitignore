@@ -1,0 +1,7 @@
+# Temporary scripts and backups
+*.py
+*.log
+*.backup.*
+temp_chrome_*
+.DS_Store
+Thumbs.db
